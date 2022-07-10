@@ -1,1 +1,1 @@
-<a href='GIDRA'>XXX</a>
+Это  <a href='https://rcway.cc/'>Пидорасы</a> Осторожно
