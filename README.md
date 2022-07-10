@@ -1,1 +1,1 @@
-<a href='https://rcway.cc/'>XXX</a>
+<a href='GIDRA'>XXX</a>
